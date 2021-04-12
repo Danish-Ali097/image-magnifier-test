@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "image-magnifier-test"
+  "defaultProject": "image-magnifier-test",
+  "cli": {
+    "analytics": false
+  }
 }
